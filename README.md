@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Arslan</h1>
-<h3 align="center">Django & React</h3>
+<h3 align="center">React</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
